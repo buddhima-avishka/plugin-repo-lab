@@ -1,6 +1,6 @@
 [
   {
-    "name": "Buddhima Plugin",
+    "name": "new Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
   }
 ]
